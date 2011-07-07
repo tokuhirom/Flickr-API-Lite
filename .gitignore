@@ -1,5 +1,8 @@
+blib/
 Makefile
 inc/
+META.yml
+pm_to_blib
 .c
 ppport.h
 *.sw[po]
