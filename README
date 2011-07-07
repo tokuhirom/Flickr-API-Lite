@@ -1,0 +1,23 @@
+This is Perl module Flickr::API::Lite.
+
+INSTALLATION
+
+Flickr::API::Lite installation is straightforward. If your CPAN shell is set up,
+you should just be able to do
+
+% cpan Flickr::API::Lite
+
+Download it, unpack it, then build it as per the usual:
+
+% perl Makefile.PL
+% make && make test
+
+Then install it:
+
+% make install
+
+DOCUMENTATION
+
+Flickr::API::Lite documentation is available as in POD. So you can do:
+
+% perldoc Flickr::API::Lite
